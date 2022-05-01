@@ -1,0 +1,5 @@
+Observations on Trend of data:
+
+1. Given the data, we can see as the latitude increases, then the temperature starts decreasing.
+2. As the value of the latitude increases, so does the values of humidity.
+3. There is less cloudiness as the value of the latitude decreases in value.
